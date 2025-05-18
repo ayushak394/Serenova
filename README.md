@@ -1,7 +1,5 @@
 # 🎬 Serenova: Static Streaming Platform
 
----
-
 A visually engaging Netflix UI clone built using React. It fetches real-time data from The Movie Database (TMDB) API, displays trending content by categories, and plays trailers using the YouTube player API.
 
 ## 🚀 Features
@@ -18,8 +16,6 @@ A visually engaging Netflix UI clone built using React. It fetches real-time dat
 
 - 🚀 Deployed on Firebase
 
----
-
 ## 🛠️ Tech Stack
 
 Frontend: React, HTML5, CSS3
@@ -29,8 +25,6 @@ API: TMDB (The Movie Database)
 Utilities: Axios, movie-trailer, react-youtube
 
 Deployment: Firebase Hosting
-
----
 
 ## 📦 Installation
 
@@ -42,9 +36,8 @@ Deployment: Firebase Hosting
 
 - Firebase CLI (for deployment)
 
----
 
-📥 Setup Steps
+## 📥 Setup Steps
 1️⃣ Clone the repository:
 
 ```bash
@@ -76,13 +69,9 @@ const API_KEY = "your_tmdb_api_key";
 ```
 Note: For production apps, store keys securely using environment variables.
 
----
-
 ## 🌐 Live Demo
 
-[Serenova Live](https://serenova.netlify.app/)
-
----
+[Click here to view Serenova Live](https://serenova.netlify.app/)
 
 📜 License
 This project is open-source and built for educational purposes.
