@@ -73,7 +73,7 @@ Note: For production apps, store keys securely using environment variables.
 
 [Click here to view Serenova Live](https://serenova.netlify.app/)
 
-📜 License
+## 📜 License
 This project is open-source and built for educational purposes.
 
 
